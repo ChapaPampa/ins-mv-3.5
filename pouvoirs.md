@@ -1,12 +1,12 @@
 ## Schéma de base, à supprimer à la fin
 
 ####
-  *Type :  *
-  *Coût :  *
-  *Caractéristique :  *
-  *Défense :  *
-  *Portée :  *
-  *Description :  *
+  __Type :  __
+  __Coût :  __
+  __Caractéristique :  __
+  __Défense :  __
+  __Portée :  __
+  __Description :  __
 
 (Pour le moment, sont uniquement présents les pouvoirs des démon de la 3e edition)
 (Parmi ces derniers ne sont pas présents : 
@@ -25,817 +25,817 @@
 ## Liste des pouvoirs :
 
 ####Absorption d'apparence
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* apparence
-  *Défense :* apparence
-  *Portée :* 5 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ apparence
+  __Défense :__ apparence
+  __Portée :__ 5 mètres
+  __Description :  __
 
 ####Absorption d'énergie sexuelle
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* apparence
-  *Défense :* apparence
-  *Portée :* 5 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ apparence
+  __Défense :__ apparence
+  __Portée :__ 5 mètres
+  __Description :  __
 
 ####Absorption de douleur
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* 5 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ 5 mètres
+  __Description :  __
 
 ####Absorption de force
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* volonté
-  *Défense :* force
-  *Portée :* 5 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ volonté
+  __Défense :__ force
+  __Portée :__ 5 mètres
+  __Description :  __
 
 ####Absorption de violence
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* 5 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ 5 mètres
+  __Description :  __
 
 ####Absorption de volonté
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* 5 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ 5 mètres
+  __Description :  __
 
 ####Arme à distante maudite
-  *Type :* physique, permanent, unique
-  *Coût :* 2PP
-  *Caractéristique :* précision, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 2PP
+  __Caractéristique :__ précision, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Arme à distante mobile
-  *Type :* physique, permanent, unique
-  *Coût :* 3PP, +1PP par minute
-  *Caractéristique :* précision, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 3PP, +1PP par minute
+  __Caractéristique :__ précision, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Arme de contact maudite
-  *Type :* physique, permanent, unique
-  *Coût :* 1PP
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 1PP
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Arme de contact mobile
-  *Type :* physique, permanent, unique
-  *Coût :* 2PP, +1PP par minute
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 2PP, +1PP par minute
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Armure maudite
-  *Type :* physique, permanent, unique
-  *Coût :* 1PP
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 1PP
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation permanente d'agilité
-  *Type :* physsique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* agilité, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physsique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ agilité, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation permanente d'apparence
-  *Type :* physique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* apparence, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ apparence, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation permanente de force
-  *Type :* physique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation permanente de perception
-  *Type :* physique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation permanente de précision
-  *Type :* physique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* précision, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ précision, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation permanente de volonté
-  *Type :* physique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation temporaire d'agilité
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation temporaire d'apparence
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation temporaire de force
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation temporaire de perception
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation temporaire de précision
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Augmentation temporaire de volonté
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Anaérobiose
-  *Type :  *
-  *Coût :  *
-  *Caractéristique :  *
-  *Défense :  *
-  *Portée :  *
-  *Description :  *
+  __Type :  __
+  __Coût :  __
+  __Caractéristique :  __
+  __Défense :  __
+  __Portée :  __
+  __Description :  __
 
 ####Armure corporelle
-  *Type :* physique
-  *Coût :* 0
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 0
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Attaque télékinétique
-  *Type :* physique
-  *Coût :* 3PP
-  *Caractéristique :* précision
-  *Défense :* esquive
-  *Portée :* variable (x5)
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 3PP
+  __Caractéristique :__ précision
+  __Défense :__ esquive
+  __Portée :__ variable (x5)
+  __Description :  __
 
 ####Bond
-  *Type :* physique
-  *Coût :* 1PP
-  *Caractéristique :* agilité, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP
+  __Caractéristique :__ agilité, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Boomerang
-  *Type :* mental
-  *Coût :* 2PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 2PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Caméléon
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Cauchemar
-  *Type :* mental
-  *Coût :* 3PP
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* (niveau) kilomètre(s)
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 3PP
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ (niveau) kilomètre(s)
+  __Description :  __
 
 ####Conversion mentale
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Conversion physique
-  *Type :* mental
-  *Coût :* 0
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 0
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Champ de force
-  *Type :* mental
-  *Coût :* 1PP par seconde
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP par seconde
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Champ magnétique
-  *Type :* mental
-  *Coût :* 2PP par seconde
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 2PP par seconde
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Charme
-  *Type :* mental
-  *Coût :* 4PP
-  *Caractéristique :* apparence
-  *Défense :* apparence
-  *Portée :* (niveau) mètre(s)
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 4PP
+  __Caractéristique :__ apparence
+  __Défense :__ apparence
+  __Portée :__ (niveau) mètre(s)
+  __Description :  __
 
 ####Choc électrique
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* force
-  *Défense :* force
-  *Portée :* contact
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ force
+  __Défense :__ force
+  __Portée :__ contact
+  __Description :  __
 
 ####Contrôle des animaux
-  *Type :* mental
-  *Coût :* 2PP
-  *Caractéristique :* apparence
-  *Défense :* volonté
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 2PP
+  __Caractéristique :__ apparence
+  __Défense :__ volonté
+  __Portée :__ vue
+  __Description :  __
 
 ####Cornes
-  *Type :* physique
-  *Coût :* 3PP
-  *Caractéristique :* force
-  *Défense :* corps à corps, arme de contact, arme de contact lourde, esquive
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 3PP
+  __Caractéristique :__ force
+  __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive
+  __Portée :__ personnel
+  __Description :  __
 
 ####Couche de glace
-  *Type :*  physique
-  *Coût :* 3PP par seconde
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__  physique
+  __Coût :__ 3PP par seconde
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Dents
-  *Type :* physique
-  *Coût :* 1PP
-  *Caractéristique :* agilité
-  *Défense :* corps à corps, arme de contact, arme de contact lourde, esquive
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP
+  __Caractéristique :__ agilité
+  __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive
+  __Portée :__ personnel
+  __Description :  __
 
 ####Déphasage
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Déplacement temporel
-  *Type :* mental
-  *Coût :* 5PP
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 5PP
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Détéction de la vérité
-  *Type :* mental
-  *Coût :* 3PP par minute
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 3PP par minute
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ personnel
+  __Description :  __
 
 ####Détéction des créatures invisibles
-  *Type :* mental
-  *Coût :* 1PP par minute
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP par minute
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ vue
+  __Description :  __
 
 ####Détéction des ennemis
-  *Type :* mental
-  *Coût :* 3PP
-  *Caractéristique :* perception
-  *Défense :* aucune
-  *Portée :* variable
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 3PP
+  __Caractéristique :__ perception
+  __Défense :__ aucune
+  __Portée :__ variable
+  __Description :  __
 
 ####Détéction du Bien
-  *Type :* mental
-  *Coût :* 4PP
-  *Caractéristique :* perception
-  *Défense :* aucune
-  *Portée :* variable
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 4PP
+  __Caractéristique :__ perception
+  __Défense :__ aucune
+  __Portée :__ variable
+  __Description :  __
 
 ####Détéction du danger
-  *Type :* mental, permanent
-  *Coût :* 1PP par minute
-  *Caractéristique :* apparence
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent
+  __Coût :__ 1PP par minute
+  __Caractéristique :__ apparence
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Détéction du futur proche
-  *Type :* mental
-  *Coût :* 3PP
-  *Caractéristique :* volonté
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 3PP
+  __Caractéristique :__ volonté
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Dialogue mental
-  *Type :* mental
-  *Coût :* 2PP par minute
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* variable
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 2PP par minute
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ variable
+  __Description :  __
 
 ####Dialogue multiple
-  *Type :* mental
-  *Coût :* 4PP par minute
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 4PP par minute
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Douleur
-  *Type :* physique
-  *Coût :* 1PP
-  *Caractéristique :* force
-  *Défense :* force
-  *Portée :* contact
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP
+  __Caractéristique :__ force
+  __Défense :__ force
+  __Portée :__ contact
+  __Description :  __
 
 ####Étouffement
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* force
-  *Défense :* force
-  *Portée :* contact
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ force
+  __Défense :__ force
+  __Portée :__ contact
+  __Description :  __
 
 ####Éventration
-  *Type :* physique
-  *Coût :* 3PP
-  *Caractéristique :* force
-  *Défense :* force
-  *Portée :* contact
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 3PP
+  __Caractéristique :__ force
+  __Défense :__ force
+  __Portée :__ contact
+  __Description :  __
 
 ####Faiblesse
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* force
-  *Portée :* (niveau) mètre(s)
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ force
+  __Portée :__ (niveau) mètre(s)
+  __Description :  __
 
 ####Forme gazeuse
-  *Type :* physique
-  *Coût :* 4PP
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 4PP
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Griffes
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* agilité
-  *Défense :* corps à corps, arme de contact, arme de contact lourde, esquive
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ agilité
+  __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive
+  __Portée :__ personnel
+  __Description :  __
 
 ####Immunité
-  *Type :* mental, unique
-  *Coût :* 4PP par seconde.
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, unique
+  __Coût :__ 4PP par seconde.
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Immunité au feu
-  *Type :* physique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Immunité au froid
-  *Type :* physique, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Immunité aux maladies et aux poisons
-  *Type :* physique, permanent
-  *Coût :* 0
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent
+  __Coût :__ 0
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Invisibilité
-  *Type :* mental
-  *Coût :* 3PP
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 3PP
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Jet d'acide
-  *Type :* physique
-  *Coût :* 3PP
-  *Caractéristique :* précision
-  *Défense :* esquive
-  *Portée :* variable (x5)
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 3PP
+  __Caractéristique :__ précision
+  __Défense :__ esquive
+  __Portée :__ variable (x5)
+  __Description :  __
 
 ####Jet d'énergie
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* précision
-  *Défense :* esquive
-  *Portée :* variable (x5)
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ précision
+  __Défense :__ esquive
+  __Portée :__ variable (x5)
+  __Description :  __
 
 ####Jet de flammes
-  *Type :* physique
-  *Coût :* 1PP
-  *Caractéristique :* précision
-  *Défense :* esquive
-  *Portée :* variable (x5)
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP
+  __Caractéristique :__ précision
+  __Défense :__ esquive
+  __Portée :__ variable (x5)
+  __Description :  __
 
 ####Jet de glace
-  *Type :* physique
-  *Coût :* 1PP
-  *Caractéristique :* précision
-  *Défense :* esquive
-  *Portée :* vaiable (x5)
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP
+  __Caractéristique :__ précision
+  __Défense :__ esquive
+  __Portée :__ vaiable (x5)
+  __Description :  __
 
 ####Langue
-  *Type :* physique
-  *Coût :* 1PP
-  *Caractéristique :* agilité
-  *Défense :* corps à corps, arme de contact, arme de contact lourde, esquive
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP
+  __Caractéristique :__ agilité
+  __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive
+  __Portée :__ personnel
+  __Description :  __
 
 ####Liquéfaction
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Lire les pensées
-  *Type :* mental
-  *Coût :* 3PP
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* 10 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 3PP
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ 10 mètres
+  __Description :  __
 
 ####Lire les sentiments
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* 20 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ 20 mètres
+  __Description :  __
 
 ####Maladie
-  *Type :* physique
-  *Coût :* 5PP
-  *Caractéristique :* force
-  *Défense :* force
-  *Portée :* contact
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 5PP
+  __Caractéristique :__ force
+  __Défense :__ force
+  __Portée :__ contact
+  __Description :  __
 
 ####Malédiction "folie"
-  *Type :* mental
-  *Coût :* variable
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ variable
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ vue
+  __Description :  __
 
 ####Malédiction "laideur"
-  *Type :* mental
-  *Coût :* variable
-  *Caractéristique :* volonté
-  *Défense :* apparence
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ variable
+  __Caractéristique :__ volonté
+  __Défense :__ apparence
+  __Portée :__ vue
+  __Description :  __
 
 ####Malédiction "maladie"
-  *Type :* mental
-  *Coût :* variable
-  *Caractéristique :* volonté
-  *Défense :* force
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ variable
+  __Caractéristique :__ volonté
+  __Défense :__ force
+  __Portée :__ vue
+  __Description :  __
 
 ####Malédiction "phobie"
-  *Type :* mental
-  *Coût :* variable
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ variable
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ vue
+  __Description :  __
 
 ####Malédiction "stérilité"
-  *Type :* mental
-  *Coût :* variable
-  *Caractéristique :* volonté
-  *Défense :* force
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ variable
+  __Caractéristique :__ volonté
+  __Défense :__ force
+  __Portée :__ vue
+  __Description :  __
 
 ####Malédiction "vieillissement"
-  *Type :* mental
-  *Coût :* variable
-  *Caractéristique :* volonté
-  *Défense :* force
-  *Portée :* vue
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ variable
+  __Caractéristique :__ volonté
+  __Défense :__ force
+  __Portée :__ vue
+  __Description :  __
 
 ####Multiplication
-  *Type :* mental
-  *Coût :* 1PP par seconde
-  *Caractéristique :* volonté automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP par seconde
+  __Caractéristique :__ volonté automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Non-détection
-  *Type :* mental, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Onde de choc
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* force
-  *Défense :* esquive
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ force
+  __Défense :__ esquive
+  __Portée :__ personnel
+  __Description :  __
 
 ####Paralysie
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* force
-  *Portée :* (niveau) mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ force
+  __Portée :__ (niveau) mètres
+  __Description :  __
 
 ####Pattes
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* force
-  *Défense :* corps à corps, arme de contact, arme de contact lourde, esquive
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ force
+  __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive
+  __Portée :__ personnel
+  __Description :  __
 
 ####Peur
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* (niveau) mètre(s)
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ (niveau) mètre(s)
+  __Description :  __
 
 ####Poison
-  *Type :* physique
-  *Coût :* 2PP
-  *Caractéristique :* force
-  *Défense :* force
-  *Portée :* contact
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP
+  __Caractéristique :__ force
+  __Défense :__ force
+  __Portée :__ contact
+  __Description :  __
 
 ####Polymorphie
-  *Type :* physique
-  *Coût :* 3PP
-  *Caractéristique :* apparence, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 3PP
+  __Caractéristique :__ apparence, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Rebond
-  *Type :* mental
-  *Coût :* 2PP par seconde
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* 20 mètres
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 2PP par seconde
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ 20 mètres
+  __Description :  __
 
 ####Réduction
-  *Type :* physique
-  *Coût :* 1PP par minute
-  *Caractéristique :* perception, auomatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP par minute
+  __Caractéristique :__ perception, auomatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Régénération
-  *Type :* physique
-  *Coût :* 0
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 0
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Relique impie
-  *Type :* physique, permanent, unique
-  *Coût :* 4PP, +1PP par minute
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique, permanent, unique
+  __Coût :__ 4PP, +1PP par minute
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Queue
-  *Type :* physique
-  *Coût :* 3PP
-  *Caractéristique :* agilité
-  *Défense :* corps à corps, arme de contact, arme de contact lourde, esquive
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 3PP
+  __Caractéristique :__ agilité
+  __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive
+  __Portée :__ personnel
+  __Description :  __
 
 ####Sommeil
-  *Type :* mental
-  *Coût :* 2PP
-  *Caractéristique :* volonté
-  *Défense :* volonté
-  *Portée :* (niveau) mètre(s)
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 2PP
+  __Caractéristique :__ volonté
+  __Défense :__ volonté
+  __Portée :__ (niveau) mètre(s)
+  __Description :  __
 
 ####Talent artistique
-  *Type :* mental, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Talent de communication
-  *Type :* mental, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* apparence, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ apparence, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Talent physique
-  *Type :* mental, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* force, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ force, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Talent de combat
-  *Type :* mental, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Talent de ruse
-  *Type :* mental, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Talent scientifique
-  *Type :* mental, permanent, unique
-  *Coût :* 0
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent, unique
+  __Coût :__ 0
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Télépathie
-  *Type :* mental
-  *Coût :* 1PP
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* variable
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 1PP
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ variable
+  __Description :  __
 
 ####Téléportation
-  *Type :* mental
-  *Coût :* 5PP
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental
+  __Coût :__ 5PP
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Tourbillon de feu
-  *Type :* physique
-  *Coût :* 2PP par seconde
-  *Caractéristique :* volonté, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 2PP par seconde
+  __Caractéristique :__ volonté, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Vitesse
-  *Type :* physique
-  *Coût :* 1PP par minute
-  *Caractéristique :* agilité, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 1PP par minute
+  __Caractéristique :__ agilité, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Vol
-  *Type :* physique
-  *Coût :* 3PP par minute
-  *Caractéristique :* agilité, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ physique
+  __Coût :__ 3PP par minute
+  __Caractéristique :__ agilité, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
 
 ####Volonté supranormale
-  *Type :* mental, permanent
-  *Coût :* 0
-  *Caractéristique :* perception, automatique
-  *Défense :* aucune
-  *Portée :* personnel
-  *Description :  *
+  __Type :__ mental, permanent
+  __Coût :__ 0
+  __Caractéristique :__ perception, automatique
+  __Défense :__ aucune
+  __Portée :__ personnel
+  __Description :  __
