@@ -17,7 +17,6 @@
 | Hallebarde         | +2        | -1        | Arme de contact lourde |                   |
 | Masse à deux mains | +2        | -2        | Arme de contact lourde | Étourdissement    |
 | Épée à deux mains  | +3        | -1        | Arme de contact lourde |                   |
-| ------------------ | --------- | --------- | ---------------------- | ----------------- |
 
 #### Armes à distance
 
@@ -38,4 +37,3 @@
 | Dague de lancer      | -1        | -1        | 2      |        | Lancer        |                        |
 | Shuriken             | -2        | -1        | 2      |        | Lancer        |                        |
 | Hachette             | 0         | 0         | 2      |        | Lancer        |                        |
-| -------------------- | --------- | --------- | ------ | ------ | ------------- | ---------------------- |
