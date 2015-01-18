@@ -72,6 +72,14 @@ __Défense :__ volonté
 __Portée :__ 5 mètres  
 __Description :__  
 
+####Anaérobiose  
+__Type :__  
+__Coût :__  
+__Caractéristique :__  
+__Défense :__  
+__Portée :__  
+__Description :__  
+
 ####Arme à distante maudite  
 __Type :__ physique, permanent, unique  
 __Coût :__ 2PP  
@@ -104,12 +112,28 @@ __Défense :__ aucune
 __Portée :__ personnel  
 __Description :__  
 
+####Armure corporelle  
+__Type :__ physique  
+__Coût :__ 0  
+__Caractéristique :__ force, automatique  
+__Défense :__ aucune  
+__Portée :__ personnel  
+__Description :__  
+
 ####Armure maudite  
 __Type :__ physique, permanent, unique  
 __Coût :__ 1PP  
 __Caractéristique :__ force, automatique  
 __Défense :__ aucune  
 __Portée :__ personnel  
+__Description :__  
+
+####Attaque télékinétique  
+__Type :__ physique  
+__Coût :__ 3PP  
+__Caractéristique :__ précision  
+__Défense :__ esquive  
+__Portée :__ variable (x5)  
 __Description :__  
 
 ####Augmentation permanente d'agilité  
@@ -208,30 +232,6 @@ __Défense :__ aucune
 __Portée :__ personnel  
 __Description :__  
 
-####Anaérobiose  
-__Type :__  
-__Coût :__  
-__Caractéristique :__  
-__Défense :__  
-__Portée :__  
-__Description :__  
-
-####Armure corporelle  
-__Type :__ physique  
-__Coût :__ 0  
-__Caractéristique :__ force, automatique  
-__Défense :__ aucune  
-__Portée :__ personnel  
-__Description :__  
-
-####Attaque télékinétique  
-__Type :__ physique  
-__Coût :__ 3PP  
-__Caractéristique :__ précision  
-__Défense :__ esquive  
-__Portée :__ variable (x5)  
-__Description :__  
-
 ####Bond  
 __Type :__ physique  
 __Coût :__ 1PP  
@@ -262,22 +262,6 @@ __Coût :__ 3PP
 __Caractéristique :__ volonté  
 __Défense :__ volonté  
 __Portée :__ (niveau) kilomètre(s)  
-__Description :__  
-
-####Conversion mentale  
-__Type :__ mental  
-__Coût :__ 0  
-__Caractéristique :__ volonté  
-__Défense :__ aucune  
-__Portée :__ personnel  
-__Description :__  
-
-####Conversion physique  
-__Type :__ mental  
-__Coût :__ 0  
-__Caractéristique :__ volonté  
-__Défense :__ aucune  
-__Portée :__ personnel  
 __Description :__  
 
 ####Champ de force  
@@ -318,6 +302,22 @@ __Coût :__ 2PP
 __Caractéristique :__ apparence  
 __Défense :__ volonté  
 __Portée :__ vue  
+__Description :__  
+
+####Conversion mentale  
+__Type :__ mental  
+__Coût :__ 0  
+__Caractéristique :__ volonté  
+__Défense :__ aucune  
+__Portée :__ personnel  
+__Description :__  
+
+####Conversion physique  
+__Type :__ mental  
+__Coût :__ 0  
+__Caractéristique :__ volonté  
+__Défense :__ aucune  
+__Portée :__ personnel  
 __Description :__  
 
 ####Cornes  
