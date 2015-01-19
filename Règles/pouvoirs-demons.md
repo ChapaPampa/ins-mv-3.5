@@ -372,7 +372,14 @@ __Coût :__ 1PP
 __Caractéristique :__ agilité  
 __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive  
 __Portée :__ personnel  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de pouvoir faire apparaitre (pour 1 PP) et disparaitre (pour 1 PP) des dents d’une taille démesurée. Une telle action prend une seconde (pendant laquelle le démon peut agir normalement). Le niveau du pouvoir est utilisé à la place de corps à corps pour résoudre le toucher de l’attaque.  
+
+Le personnage doit choisir à l’obtention de ce pouvoir le type de dents qu’il désire :  
+
+| Type de dent                      | Puissance | Précision |
+| --------------------------------- | --------- | --------- |
+| Petits dents (style vampire)      | +1        | +2        |
+| Grosses dents                     | +2        | +1        |  
 
 ####Déphasage  
 __Type :__ mental  
