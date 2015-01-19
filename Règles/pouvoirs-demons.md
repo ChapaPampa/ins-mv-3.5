@@ -30,7 +30,8 @@ __Coût :__ 0
 __Caractéristique :__ apparence  
 __Défense :__ apparence  
 __Portée :__ 5 mètres  
-__Description :__  
+__Description :__Ce pouvoir accorde à son possesseur la faculté de regagner des points de pouvoirs en puissant dans l’énergie vitale d’un être vivant. Le Ru indique le nombre de point récupérer et le nombre de point d’apparence perdu par la cible. Elle ne peut pas posséder moins d’un point d’apparence (voir exemple). Les points d’apparence  perdue reviennent au bout d’une heure (durant tout ce temps c’est la valeur diminué qui sera utilisé pour toute procédure du jeu et le niveau des talents ou pouvoirs associés à l’apparence ne pourront pas dépasser la nouvelle valeur). Si les PP dépassent alors celui du possesseur, alors ceux-ci seront perdus 1 heure après leur acquisition.  
+On ne peut utiliser ce pouvoir qu’une fois toutes les 3 heures.  
 
 ####Absorption d'énergie sexuelle  
 __Type :__ mental  
