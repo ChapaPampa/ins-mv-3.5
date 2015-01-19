@@ -356,7 +356,11 @@ __Coût :__ 3PP
 __Caractéristique :__ force  
 __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive  
 __Portée :__ personnel  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de pouvoir faire apparaitre (pour 3 PP) et disparaitre (pour 3 PP) des cornes sur les fronts ( 5 cm). Une telle action prend une seconde (pendant laquelle le démon peut agir normalement). Le niveau du pouvoir est utilisé à la place de corps à corps pour résoudre le toucher de l’attaque.    
+
+| Cornes                     | Puissance | Précision |
+| ---------------------------| --------- | --------- |
+| Corne de 5 cm              | +4        | +1        |
 
 ####Couche de glace  
 __Type :__  physique  
@@ -376,7 +380,7 @@ __Description :__ Ce pouvoir accorde à son possesseur la faculté de pouvoir fa
 
 Le personnage doit choisir à l’obtention de ce pouvoir le type de dents qu’il désire :  
 
-| Type de dent                      | Puissance | Précision |
+| Type de dents                     | Puissance | Précision |
 | --------------------------------- | --------- | --------- |
 | Petits dents (style vampire)      | +1        | +2        |
 | Grosses dents                     | +2        | +1        |  
@@ -507,7 +511,14 @@ __Coût :__ 2PP
 __Caractéristique :__ agilité  
 __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive  
 __Portée :__ personnel  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de pouvoir faire apparaitre (pour 2 PP) et disparaitre (pour 2 PP) des griffes aux bouts de ses doigts. Une telle action prend une seconde (pendant laquelle le démon peut agir normalement). Le niveau du pouvoir est utilisé à la place de corps à corps pour résoudre le toucher de l’attaque.  
+
+Le personnage doit choisir à l’obtention de ce pouvoir le type de griffes qu’il désire :  
+
+| Type de griffes                   | Puissance | Précision |
+| --------------------------------- | --------- | --------- |
+| Petites griffes (5 cm)            | +2        | +2        |
+| Grandes griffes (15 cm)           | +4        | +0        |    
 
 ####Immunité  
 __Type :__ mental, unique  
@@ -587,7 +598,14 @@ __Coût :__ 1PP
 __Caractéristique :__ agilité  
 __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive  
 __Portée :__ personnel  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de pouvoir faire apparaitre (pour 1 PP) et disparaitre (pour 1 PP) une langue démesurée. Une telle action prend une seconde (pendant laquelle le démon peut agir normalement). Le niveau du pouvoir est utilisé à la place de corps à corps pour résoudre le toucher de l’attaque.  
+
+Le personnage doit choisir à l’obtention de ce pouvoir le type de langue qu’il désire :  
+
+| Type de langue                   | Puissance | Précision | Effet           |
+| -------------------------------- | --------- | --------- | --------------- |
+| Langue Barbelée                  | +3        | +0        |                 |
+| Langue blindé                    | +1        | +0        | Etoursissement  |  
 
 ####Liquéfaction  
 __Type :__ physique  
@@ -707,7 +725,14 @@ __Coût :__ 2PP
 __Caractéristique :__ force  
 __Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive  
 __Portée :__ personnel  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de pouvoir faire apparaitre (pour 2 PP) et disparaitre (pour 2 PP) des ergots ou des sabots à la place de ses pieds. Une telle action prend une seconde (pendant laquelle le démon peut agir normalement). Le niveau du pouvoir est utilisé à la place de corps à corps pour résoudre le toucher de l’attaque.  
+
+Le personnage doit choisir à l’obtention de ce pouvoir le type de pattes qu’il désire :  
+
+| Type de Pattes                   | Puissance | Précision | Effet           |
+| -------------------------------- | --------- | --------- | --------------- |
+| Ergots                           | +3        | +1        |                 |
+| Sabots                           | +2        | +0        | Etoursissement  | 
 
 ####Peur  
 __Type :__ mental  
@@ -732,6 +757,21 @@ __Caractéristique :__ apparence, automatique
 __Défense :__ aucune  
 __Portée :__ personnel  
 __Description :__  
+
+####Queue  
+__Type :__ physique  
+__Coût :__ 3PP  
+__Caractéristique :__ agilité  
+__Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive  
+__Portée :__ personnel  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de pouvoir faire apparaitre (pour 3 PP) et disparaitre (pour 3 PP) une queue. Une telle action prend une seconde (pendant laquelle le démon peut agir normalement). Le niveau du pouvoir est utilisé à la place de corps à corps pour résoudre le toucher de l’attaque.  
+
+Le personnage doit choisir à l’obtention de ce pouvoir le type de queue qu’il désire :  
+
+| Type de Queue                    | Puissance | Précision | Effet           |
+| -------------------------------- | --------- | --------- | --------------- |
+| Queue Barbelée                   | +3        | +2        |                 |
+| Queue blindée                    | +3        | +0        | Etoursissement  |  
 
 ####Rebond  
 __Type :__ mental  
@@ -762,14 +802,6 @@ __Type :__ physique, permanent, unique
 __Coût :__ 4PP, +1PP par minute  
 __Caractéristique :__ force, automatique  
 __Défense :__ aucune  
-__Portée :__ personnel  
-__Description :__  
-
-####Queue  
-__Type :__ physique  
-__Coût :__ 3PP  
-__Caractéristique :__ agilité  
-__Défense :__ corps à corps, arme de contact, arme de contact lourde, esquive  
 __Portée :__ personnel  
 __Description :__  
 
