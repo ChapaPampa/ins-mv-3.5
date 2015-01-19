@@ -32,9 +32,10 @@ __Défense :__ apparence
 __Portée :__ 5 mètres  
 __Description :__ Ce pouvoir accorde à son possesseur la faculté de regagner des points de pouvoirs en puissant dans l’énergie vitale d’un être vivant. Le Ru indique le nombre de point récupérer et le nombre de point d’apparence perdu par la cible. Elle ne peut pas posséder moins d’un point d’apparence (voir exemple). Les points d’apparence  perdue reviennent au bout d’une heure (durant tout ce temps c’est la valeur diminué qui sera utilisé pour toute procédure du jeu et le niveau des talents ou pouvoirs associés à l’apparence ne pourront pas dépasser la nouvelle valeur). Si les PP dépassent alors celui du possesseur, alors ceux-ci seront perdus 1 heure après leur acquisition.  
 On ne peut utiliser ce pouvoir qu’une fois toutes les 3 heures.  
+
 Exemple :   RU : 5  
-            Point de force perdu lors de l’attaque de la cible : 3  
-            Le gain ne peut être que de 3 points  
+            Apparence de la cible : 3  
+            Le gain ne peut être que de 2 points   
 
 ####Absorption d'énergie sexuelle  
 __Type :__ mental  
@@ -44,8 +45,9 @@ __Défense :__ apparence
 __Portée :__ 5 mètres  
 __Description :__ Ce pouvoir accorde à son possesseur la faculté de regagner des points de pouvoirs chez un partenaire sexuel avec qui il vient d’avoir une relation. Le Ru indique le nombre de point récupérer et le nombre d’heure que la cible dormira. Il n’est pas possible de regagner plus de PP que le score d’apparence de la cible (voir exemple).Si les PP dépassent alors celui du possesseur, alors ceux-ci seront perdus 1 heure après leur acquisition.  
 On ne peut utiliser ce pouvoir qu’une fois toutes les 3 heures.  
+
 Exemple :   RU : 5  
-            Apparence de la cible : 3  
+            Point de force perdu lors de l’attaque de la cible : 3  
             Le gain ne peut être que de 3 points  
 
 ####Absorption de douleur  
@@ -54,7 +56,12 @@ __Coût :__ 0
 __Caractéristique :__ volonté  
 __Défense :__ volonté  
 __Portée :__ 5 mètres  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de regagner des points de pouvoirs en puissant dans l’énergie vitale d’un être vivant qu’il vient de blesser AU contact. Le Ru indique le nombre de point récupérer et ne peut dépasser le nombre de point de force que la cible a perdu. Si les PP dépassent alors celui du possesseur, alors ceux-ci seront perdus 1 heure après leur acquisition.  
+On ne peut utiliser ce pouvoir qu’une fois toutes les 3 heures.  
+
+Exemple :   RU : 5  
+            Point de force perdu lors de l’attaque de la cible : 3  
+            Le gain ne peut être que de 3 points  
 
 ####Absorption de force  
 __Type :__ mental  
@@ -62,7 +69,12 @@ __Coût :__ 0
 __Caractéristique :__ volonté  
 __Défense :__ force  
 __Portée :__ 5 mètres  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de regagner des points de pouvoirs en puissant dans l’énergie vitale d’un être vivant. Le Ru indique le nombre de point récupérer et le nombre de point de force perdu par la cible. Elle ne peut pas posséder moins d’un point de force (voir exemple). Les points de force perdue reviennent au bout d’une heure (durant tout ce temps c’est la valeur diminué qui sera utilisé pour toute procédure du jeu et le niveau des talents ou pouvoirs associés à la volonté ne pourront pas dépasser la nouvelle valeur, Les points de vie ne changent pas). Si les PP dépassent alors celui du possesseur, alors ceux-ci seront perdus 1 heure après leur acquisition.  
+On ne peut utiliser ce pouvoir qu’une fois toutes les 3 heures.  
+
+Exemple :   RU : 5  
+            Force de la cible : 3  
+            Le gain ne peut être que de 2 points   
 
 ####Absorption de violence  
 __Type :__ mental  
@@ -70,7 +82,12 @@ __Coût :__ 0
 __Caractéristique :__ volonté  
 __Défense :__ volonté  
 __Portée :__ 5 mètres  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de regagner des points de pouvoirs en puissant dans l’énergie vitale d’un être vivant qui vient d’être blesser par une autre. Le Ru indique le nombre de point récupérer et ne peut dépasser le nombre de point de force que la victime a perdu. Si les PP dépassent alors celui du possesseur, alors ceux-ci seront perdus 1 heure après leur acquisition.  
+On ne peut utiliser ce pouvoir qu’une fois toutes les 3 heures.  
+
+Exemple :   RU : 5  
+            Point de force perdu lors de l’attaque de la cible : 3  
+            Le gain ne peut être que de 3 points  
 
 ####Absorption de volonté  
 __Type :__ mental  
@@ -78,7 +95,12 @@ __Coût :__ 0
 __Caractéristique :__ volonté  
 __Défense :__ volonté  
 __Portée :__ 5 mètres  
-__Description :__  
+__Description :__ Ce pouvoir accorde à son possesseur la faculté de regagner des points de pouvoirs en puissant dans l’énergie vitale d’un être vivant. Le Ru indique le nombre de point récupérer et le nombre de point de volonté perdu par la cible. Elle ne peut pas posséder moins d’un point de volonté (voir exemple). Les points de volonté perdue reviennent au bout d’une heure (durant tout ce temps c’est la valeur diminué qui sera utilisé pour toute procédure du jeu et le niveau des talents ou pouvoirs associés à la volonté ne pourront pas dépasser la nouvelle valeur). Si les PP dépassent alors celui du possesseur, alors ceux-ci seront perdus 1 heure après leur acquisition.  
+On ne peut utiliser ce pouvoir qu’une fois toutes les 3 heures. 
+
+Exemple :   RU : 5  
+            Volonté de la cible : 3  
+            Le gain ne peut être que de 2 points 
 
 ####Anaérobiose  
 __Type :__  
